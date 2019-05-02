@@ -174,7 +174,7 @@ TE-independent (i.e., have low Rho).
 
 After component selection is performed, the retained components and their
 associated betas are used to reconstruct the optimally combined data, resulting
-in a dimensionally reduced (i.e., whitened) version of the dataset.
+in a dimensionally reduced and whitened version of the dataset.
 
 .. image:: /_static/12_pca_whitened_data.png
 
